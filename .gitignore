@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# .idea
+.idea/
+
+# certificate files
+ca-bundle-full.crt
+
 # C extensions
 *.so
 
