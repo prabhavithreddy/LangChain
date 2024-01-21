@@ -1,2 +1,7 @@
-langchain==0.1.0
-openai==0.28.0
+langchain[all]
+openai==0.28.1
+python-dotenv
+jupyter
+pydantic
+beautifulsoup4
+requests
