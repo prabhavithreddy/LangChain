@@ -5,3 +5,8 @@ jupyter
 pydantic
 beautifulsoup4
 requests
+tavily-python
+langchainhub
+google-api-python-client>=2.100.0
+chromadb
+tiktoken
